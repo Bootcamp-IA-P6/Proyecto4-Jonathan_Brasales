@@ -19,7 +19,7 @@ Analizar cómo ha cambiado la producción/consumo de energía renovable a lo lar
 
 **Dataset elegido:** Share of final energy use that comes from renewable sources — Our World in Data (CSV)
 
-**Fuente:** Our World in Data presenta datos globales de energía, incluyendo métricas de participación de energías renovables en el consumo total de energía. :contentReference[oaicite:8]{index=8}
+**Fuente:** Our World in Data presenta datos globales de energía, incluyendo métricas de participación de energías renovables en el consumo total de energía
 
 **URL de descarga propuesta:**
 - https://archive.ourworldindata.org/20260130-180113/grapher/share-of-final-energy-consumption-from-renewable-sources.html
