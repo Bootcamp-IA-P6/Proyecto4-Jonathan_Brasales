@@ -1,5 +1,5 @@
 # Proyecto 3 - Jonathan Brasales
-
+# Parte 1
 
 ## Fase 0 – Definición del problema analítico
 **Enfoque elegido:** Evolución global de la energía renovable.
@@ -86,3 +86,13 @@ El fuerte incremento observado en 2020 parece responder a contexto excepcional c
 
 La energía renovable ha aumentado su participación en el consumo global en las últimas dos décadas, pero lo ha hecho de forma lenta y no lineal. Durante muchos años el crecimiento fue prácticamente plano, con una aceleración clara a partir de la década de 2010. El año 2020 destaca como un evento excepcional, seguido de una corrección, lo que sugiere que la transición energética requiere esfuerzos sostenidos para consolidarse
 
+---
+# Parte 2
+
+## Contexto y objetivo --
+## Descripción del dataset por tipo de energía
+## Evolución temporal individual
+## Comparación de tasas de crecimiento
+## Cambio en la composición del mix
+## Insights estructurales
+## Conclusiones estratégicas
