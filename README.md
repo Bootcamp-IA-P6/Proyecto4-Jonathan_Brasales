@@ -95,7 +95,6 @@ proyecto-energia-renovable/
 ---
 
 ## 📈 Análisis Realizado
-
 ### Parte 1: Evolución Global de la Energía Renovable
 
 **Pregunta central:** *¿Está creciendo realmente la energía renovable a nivel mundial?*
@@ -148,6 +147,9 @@ proyecto-energia-renovable/
 ---
 
 ## 💡 Insights Clave del Proyecto
+
+![Transformación renovables](Docs/Transformación_renovable.png)
+
 
 ### 🎯 Insight 1: La transición es real pero gradual
 El crecimiento de la energía renovable es sostenido pero lento. Un incremento de ~2.2 puntos porcentuales en 22 años evidencia una tendencia positiva, aunque de baja intensidad a lo largo del tiempo.
