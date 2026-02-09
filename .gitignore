@@ -11,3 +11,9 @@ wheels/
 venv
 README2.md
 EDA copy.ipynb
+
+# Docs
+*.log
+*.aux
+*.out
+*.tex

@@ -1,0 +1,241 @@
+Year,Technology,Energy_TWh
+1965,Hydropower,923.19806
+1966,Hydropower,983.81696
+1967,Hydropower,1005.7424
+1968,Hydropower,1059.2887
+1969,Hydropower,1121.7424
+1970,Hydropower,1174.6497
+1971,Hydropower,1227.2422
+1972,Hydropower,1284.629
+1973,Hydropower,1303.013
+1974,Hydropower,1431.2317
+1975,Hydropower,1448.8834
+1976,Hydropower,1443.1366
+1977,Hydropower,1491.6724
+1978,Hydropower,1614.3823
+1979,Hydropower,1695.1862
+1980,Hydropower,1731.6493
+1981,Hydropower,1768.9036
+1982,Hydropower,1800.9081
+1983,Hydropower,1877.7689
+1984,Hydropower,1941.3734
+1985,Hydropower,1979.2437
+1986,Hydropower,2006.073
+1987,Hydropower,2033.1924
+1988,Hydropower,2098.3489
+1989,Hydropower,2087.587
+1990,Hydropower,2158.622
+1991,Hydropower,2208.5442
+1992,Hydropower,2208.3147
+1993,Hydropower,2341.3206
+1994,Hydropower,2355.9055
+1995,Hydropower,2483.389
+1996,Hydropower,2516.815
+1997,Hydropower,2561.3557
+1998,Hydropower,2580.9333
+1999,Hydropower,2600.4688
+2000,Hydropower,2646.6814
+2001,Hydropower,2578.609
+2002,Hydropower,2626.1453
+2003,Hydropower,2622.9336
+2004,Hydropower,2816.5308
+2005,Hydropower,2911.2554
+2006,Hydropower,3022.2324
+2007,Hydropower,3072.41
+2008,Hydropower,3251.593
+2009,Hydropower,3246.3337
+2010,Hydropower,3430.1125
+2011,Hydropower,3492.5762
+2012,Hydropower,3641.434
+2013,Hydropower,3787.994
+2014,Hydropower,3889.0725
+2015,Hydropower,3879.1655
+2016,Hydropower,4015.9543
+2017,Hydropower,4068.418
+2018,Hydropower,4188.5957
+2019,Hydropower,4242.626
+2020,Hydropower,4359.1284
+2021,Hydropower,4293.666
+2022,Hydropower,4334.792
+2023,Hydropower,4260.753
+2024,Hydropower,4452.9087
+1965,Solar,0.0
+1966,Solar,0.0
+1967,Solar,0.0
+1968,Solar,0.0
+1969,Solar,0.0
+1970,Solar,0.0
+1971,Solar,0.0
+1972,Solar,0.0
+1973,Solar,0.0
+1974,Solar,0.0
+1975,Solar,0.0
+1976,Solar,0.0
+1977,Solar,0.0
+1978,Solar,0.0
+1979,Solar,0.0
+1980,Solar,0.0
+1981,Solar,0.0
+1982,Solar,0.0
+1983,Solar,0.003
+1984,Solar,0.006311111
+1985,Solar,0.011747475
+1986,Solar,0.015183838
+1987,Solar,0.01060303
+1988,Solar,0.010195959
+1989,Solar,0.26222324
+1990,Solar,0.38824996
+1991,Solar,0.50522286
+1992,Solar,0.4665791
+1993,Solar,0.5566775
+1994,Solar,0.5969829
+1995,Solar,0.63888276
+1996,Solar,0.69922996
+1997,Solar,0.7496558
+1998,Solar,0.811852
+1999,Solar,0.9052879
+2000,Solar,1.0581311
+2001,Solar,1.4220114
+2002,Solar,1.7970146
+2003,Solar,2.2525039
+2004,Solar,2.9681087
+2005,Solar,4.1821074
+2006,Solar,5.7550807
+2007,Solar,7.8056073
+2008,Solar,12.680596
+2009,Solar,21.05927
+2010,Solar,33.921192
+2011,Solar,65.74349
+2012,Solar,101.51597
+2013,Solar,138.60948
+2014,Solar,197.29445
+2015,Solar,256.5335
+2016,Solar,328.01477
+2017,Solar,445.88455
+2018,Solar,575.5735
+2019,Solar,706.5271
+2020,Solar,857.2814
+2021,Solar,1052.791
+2022,Solar,1322.6465
+2023,Solar,1650.8986
+2024,Solar,2111.7334
+1965,Wind,0.0
+1966,Wind,0.0
+1967,Wind,0.0
+1968,Wind,0.0
+1969,Wind,0.0
+1970,Wind,0.0
+1971,Wind,0.0
+1972,Wind,0.0
+1973,Wind,0.0
+1974,Wind,0.0
+1975,Wind,0.0
+1976,Wind,0.0
+1977,Wind,0.0
+1978,Wind,0.003
+1979,Wind,0.006
+1980,Wind,0.0105
+1981,Wind,0.0105
+1982,Wind,0.0185
+1983,Wind,0.03279495
+1984,Wind,0.044755556
+1985,Wind,0.064220205
+1986,Wind,0.13883132
+1987,Wind,0.19537677
+1988,Wind,0.3315798
+1989,Wind,2.6497767
+1990,Wind,3.6324706
+1991,Wind,4.086107
+1992,Wind,4.732812
+1993,Wind,5.704169
+1994,Wind,7.13173
+1995,Wind,8.272123
+1996,Wind,9.215601
+1997,Wind,12.028216
+1998,Wind,15.92926
+1999,Wind,21.226898
+2000,Wind,31.409548
+2001,Wind,38.380005
+2002,Wind,52.38179
+2003,Wind,63.28461
+2004,Wind,85.61839
+2005,Wind,104.62726
+2006,Wind,133.50282
+2007,Wind,171.5046
+2008,Wind,221.41243
+2009,Wind,276.79733
+2010,Wind,346.40906
+2011,Wind,440.9265
+2012,Wind,530.81085
+2013,Wind,635.8524
+2014,Wind,706.23956
+2015,Wind,831.752
+2016,Wind,962.6643
+2017,Wind,1142.5314
+2018,Wind,1271.1879
+2019,Wind,1422.2594
+2020,Wind,1595.7666
+2021,Wind,1860.6091
+2022,Wind,2110.1328
+2023,Wind,2322.7354
+2024,Wind,2511.0308
+1965,Other renewables,17.985231
+1966,Other renewables,19.806007
+1967,Other renewables,19.98657
+1968,Other renewables,22.120045
+1969,Other renewables,23.257965
+1970,Other renewables,25.701897
+1971,Other renewables,27.888294
+1972,Other renewables,29.888775
+1973,Other renewables,32.09585
+1974,Other renewables,34.289085
+1975,Other renewables,34.81208
+1976,Other renewables,38.79105
+1977,Other renewables,40.89204
+1978,Other renewables,43.29665
+1979,Other renewables,46.499256
+1980,Other renewables,49.717464
+1981,Other renewables,53.48617
+1982,Other renewables,61.708954
+1983,Other renewables,68.35493
+1984,Other renewables,76.34615
+1985,Other renewables,78.702576
+1986,Other renewables,85.44338
+1987,Other renewables,91.51602
+1988,Other renewables,94.16091
+1989,Other renewables,104.67236
+1990,Other renewables,117.22435
+1991,Other renewables,122.26321
+1992,Other renewables,131.15991
+1993,Other renewables,135.48085
+1994,Other renewables,140.67743
+1995,Other renewables,146.64236
+1996,Other renewables,150.7037
+1997,Other renewables,161.41173
+1998,Other renewables,168.2174
+1999,Other renewables,176.64807
+2000,Other renewables,184.92102
+2001,Other renewables,192.07533
+2002,Other renewables,206.76979
+2003,Other renewables,218.43156
+2004,Other renewables,236.08224
+2005,Other renewables,255.4756
+2006,Other renewables,272.06897
+2007,Other renewables,295.30084
+2008,Other renewables,315.9329
+2009,Other renewables,338.23798
+2010,Other renewables,378.38107
+2011,Other renewables,397.03775
+2012,Other renewables,428.7513
+2013,Other renewables,461.37805
+2014,Other renewables,502.1095
+2015,Other renewables,534.2973
+2016,Other renewables,547.1505
+2017,Other renewables,576.2297
+2018,Other renewables,624.6732
+2019,Other renewables,652.1985
+2020,Other renewables,688.7327
+2021,Other renewables,741.6173
+2022,Other renewables,761.4335
+2023,Other renewables,771.6347
+2024,Other renewables,792.43414
